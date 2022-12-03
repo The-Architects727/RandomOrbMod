@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "randomboxmod:zircon_ore",
+    "randomboxmod:zircon_block",
+    "randomboxmod:deepslate_zircon_ore"
+  ]
+}
